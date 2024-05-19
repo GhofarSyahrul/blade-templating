@@ -8,12 +8,12 @@
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
                         <li class="active has-sub">
-                            <a class="js-arrow" href="#">
+                            <a class="js-arrow" href="{{ asset('/') }}">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li>
                         <li>
-                            <a href="form.html">
+                            <a href="{{ asset('/form') }}">
                                 <i class="far fa-check-square"></i>Forms</a>
                         </li>
                     </ul>

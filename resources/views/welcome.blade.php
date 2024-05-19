@@ -621,7 +621,6 @@
 
     <!-- Main JS-->
     <script src="{{ asset('CoolAdmin/js/main.js')}}"></script>
-
 </body>
 
 </html>
